@@ -2,7 +2,6 @@
 
 
 <h1 align="center">
-  <br>
    Tessa Sanders Hair Styling Website
   <br>
 </h1>
