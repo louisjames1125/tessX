@@ -8,6 +8,10 @@
 
 <h4 align="center">A pink colored website designed to showcase Tessa Sanders work</h4>
 
+## How To Use
+
+To use this website go to the URL: https://tessx.net
+
 ## Key Features
 
 * JavaScript Form Validation
