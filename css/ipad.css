@@ -1,0 +1,110 @@
+/* About */
+
+section#about>div {
+    flex-direction: row;
+}
+
+section#about>div img {
+    height: 400px;
+    width: 350px;
+    margin-top: 0rem;
+    margin-bottom: 0rem;
+    margin-left: 1.5rem;
+}
+
+section#about>div p {
+    font-size: .9rem;
+    padding: 0 1rem;
+}
+
+section#about>div>div {
+    display: flex;
+    flex-direction: column;
+}
+
+section#about>div>div a {
+    margin-top: 0rem;
+    margin-left: 1rem;
+    align-self: flex-start;
+}
+
+/* Services */
+
+.row-divider {
+    height: 3px;
+    width: 93%;
+}
+
+/* Gallery */
+
+section#gallery .gallery-header {
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    height: 13%;
+}
+
+section#gallery .picture-gallery img {
+    height: 187.5px;
+    width: 187.5px;
+}
+
+/* Resposive Design for IPHONES LANDSCAPE MODE */
+
+@media (max-height: 420px) and (max-width: 1000px) {
+    /* About */
+    section#about>div {
+        margin-top: 5rem;
+    }
+    section#about>div img {
+        height: 200px;
+        width: 200px;
+    }
+    section#about>div h1 {
+        text-align: center;
+        color: black;
+    }
+    section#about>div p {
+        font-size: .7rem;
+        padding: 0 1rem;
+    }
+    /* Services */
+    section#services>div {
+        font-size: .5rem;
+    }
+    section#services>div h1 {
+        margin-top: 6rem;
+        margin-bottom: 0rem;
+    }
+    /* Gallery */
+    section#gallery {
+        flex-direction: row;
+    }
+    section#gallery .gallery-header {
+        margin-top: 5rem;
+        margin-bottom: 0rem;
+    }
+    section#gallery .gallery-header h2 {
+        font-size: 2rem;
+        margin-bottom: 0rem;
+    }
+    section#gallery .picture-gallery {
+        flex-direction: column;
+    }
+    section#gallery .picture-gallery>div {
+        display: flex;
+        flex-direction: row;
+    }
+    section#gallery .picture-gallery img {
+        height: 85px;
+        width: 85px;
+    }
+    section#gallery .picture-gallery>div {
+        justify-content: center;
+    }
+    /* Contact */
+    .contact-container h2 {
+        margin-top: 7rem;
+        margin-bottom: -.5rem;
+    }
+}

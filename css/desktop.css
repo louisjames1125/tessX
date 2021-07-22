@@ -1,0 +1,126 @@
+/* Navbar */
+
+header nav {
+    flex-direction: row;
+    justify-content: space-between;
+    height: 70px;
+    padding: 0 1rem;
+}
+
+header nav ul {
+    width: 30%;
+}
+
+header nav ul li a {
+    padding-bottom: .5rem;
+}
+
+/* About */
+
+section#about>div img {
+    display: none;
+    height: 600px;
+    width: 400px;
+    margin-left: 0;
+}
+
+.parallax-window {
+    display: initial;
+    height: 700px;
+    background: transparent;
+}
+
+section#about>div>div {
+    flex-basis: 40%;
+}
+
+section#about>div h1 {
+    font-size: 3rem;
+    margin-bottom: 2rem;
+}
+
+section#about>div p {
+    font-size: 1.25rem;
+    padding: 0 4rem;
+}
+
+section#about>div>div {
+    display: flex;
+    flex-direction: column;
+}
+
+section#about>div>div a {
+    margin-top: 2rem;
+    margin-left: 4rem;
+}
+
+/* Services */
+
+section#services>div {
+    width: 60%;
+}
+
+section#services>div h1 {
+    font-size: 3rem;
+}
+
+section#services>div .row {
+    padding: 1rem 2rem;
+}
+
+.row-divider {
+    height: 3px;
+    width: 95%;
+}
+
+/* Gallery */
+
+section#gallery {
+    flex-direction: row;
+}
+
+section#gallery .gallery-header {
+    margin-top: 1.75rem;
+    margin-bottom: 2.5rem;
+}
+
+section#gallery .gallery-header h2 {
+    font-size: 3rem;
+    margin-bottom: .5rem;
+}
+
+section#gallery .gallery-header a {
+    margin-bottom: -2rem;
+}
+
+section#gallery .picture-gallery {
+    flex-direction: column;
+}
+
+section#gallery .picture-gallery>div {
+    display: flex;
+    flex-direction: row;
+}
+
+section#gallery .picture-gallery img {
+    height: 250px;
+    width: 300px;
+}
+
+/* Contact */
+
+.contact-container {
+    width: 50%;
+}
+
+/* =======================
+
+ CSS ANIMATIONS - Desktop
+ 
+========================== */
+
+/* Landing Page */
+
+.movingText ul li {
+    font-size: 3rem;
+}
