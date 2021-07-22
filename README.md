@@ -3,15 +3,11 @@
 
 <h1 align="center">
   <br>
-  <img src="https://www.pexels.com/photo/several-scissors-1319460/" />
-  <br>
    Tessa Sanders Hair Styling Website
   <br>
 </h1>
 
-<h4 align="center">A minimal Markdown Editor desktop app built on top of <a href="http://electron.atom.io" target="_blank">Electron</a>.</h4>
-
-![screenshot](https://raw.githubusercontent.com/amitmerchant1990/electron-markdownify/master/app/img/markdownify.gif)
+<h4 align="center">A pink colored website designed to showcase Tessa Sanders work</h4>
 
 ## Key Features
 
