@@ -3,7 +3,7 @@
 
 <h1 align="center">
   <br>
-  <a href="https://www.pexels.com/photo/several-scissors-1319460/" alt="Markdownify" width="200"></a>
+  <img src="https://www.pexels.com/photo/several-scissors-1319460/" />
   <br>
    Tessa Sanders Hair Styling Website
   <br>
