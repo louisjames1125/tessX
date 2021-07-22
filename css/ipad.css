@@ -49,6 +49,18 @@ section#gallery .picture-gallery img {
     width: 187.5px;
 }
 
+/* ==============
+
+  CSS ANIMATIONS
+
+================= */
+
+/* Landing Page */
+
+.movingText ul li {
+    font-size: 25px;
+}
+
 /* Resposive Design for IPHONES LANDSCAPE MODE */
 
 @media (max-height: 420px) and (max-width: 1000px) {

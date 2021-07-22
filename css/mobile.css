@@ -534,7 +534,7 @@ section#gallery .picture-gallery img:hover {
     color: #fff;
     font-weight: bolder;
     margin: 0 8px;
-    font-size: 21px;
+    font-size: 17px;
     text-transform: uppercase;
     animation: loadNow 4s ease-in-out forwards;
     opacity: 0;
