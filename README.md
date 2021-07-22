@@ -27,10 +27,6 @@ This website uses the following open source packages:
 - [lightbox.js](https://lokeshdhakar.com/projects/lightbox2/)
 - [email.js](https://www.emailjs.com/)
 
-## Related
-
-[READ.me template](https://www.readme-templates.com/) - The template I used for this READ.me
-
 ## You may also like...
 
 - [Project 1:](http://jaketheangler.com) - My last clinet
