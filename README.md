@@ -15,7 +15,7 @@
 * jQuery smooth scrolling
 * GSAP Landing Page
 * GSAP opacity/transition effects
-* Parallax imgages
+* Parallax images
 
 ## Credits
 
