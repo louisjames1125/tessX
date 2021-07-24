@@ -33,4 +33,4 @@ This website uses the following open source packages:
 
 ## You may also like...
 
-- [Project 1:](http://jaketheangler.com) My last clinet
+- [Client 1:](http://jaketheangler.com) My last clinet
